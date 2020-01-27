@@ -2,6 +2,8 @@ from PIL import Image
 
 IMG = '/Users/sun/Downloads/tuanzi.jpg'
 
+# 我的电脑只能显示height不超过45，不然在matrix那边会报错
+
 WIDTH = 100
 HEIGHT = 40
 
